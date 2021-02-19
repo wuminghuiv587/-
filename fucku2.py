@@ -58,7 +58,7 @@ from keras.models import load_model
 from keras import optimizers
 from keras.layers import LSTM
 # from sklearn. import decision
-from sklearn.preprocessing import Imputer
+#from sklearn.preprocessing import Imputer
 
 
 def picky(data, num):
